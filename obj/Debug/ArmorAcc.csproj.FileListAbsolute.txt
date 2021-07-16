@@ -1,0 +1,43 @@
+D:\1. HUYBINH\VSTO\ArmorAcc\bin\Debug\ArmorAcc.dll
+D:\1. HUYBINH\VSTO\ArmorAcc\bin\Debug\ArmorAcc.pdb
+D:\1. HUYBINH\VSTO\ArmorAcc\bin\Debug\ArmorAcc.dll.manifest
+D:\1. HUYBINH\VSTO\ArmorAcc\bin\Debug\ArmorAcc.vsto
+D:\1. HUYBINH\VSTO\ArmorAcc\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+D:\1. HUYBINH\VSTO\ArmorAcc\obj\Debug\ArmorAcc.csprojAssemblyReference.cache
+D:\1. HUYBINH\VSTO\ArmorAcc\obj\Debug\ArmorAcc.ArmorAcc.resources
+D:\1. HUYBINH\VSTO\ArmorAcc\obj\Debug\ArmorAcc.Properties.Resources.resources
+D:\1. HUYBINH\VSTO\ArmorAcc\obj\Debug\ArmorAcc.csproj.GenerateResource.cache
+D:\1. HUYBINH\VSTO\ArmorAcc\obj\Debug\ArmorAcc.csproj.CoreCompileInputs.cache
+D:\1. HUYBINH\VSTO\ArmorAcc\obj\Debug\ArmorAcc.csproj.CopyComplete
+D:\1. HUYBINH\VSTO\ArmorAcc\obj\Debug\ArmorAcc.dll
+D:\1. HUYBINH\VSTO\ArmorAcc\obj\Debug\ArmorAcc.pdb
+D:\1. HUYBINH\VSTO\ARMOR\EXCEL RIBBON\bin\Debug\ArmorAcc.dll
+D:\1. HUYBINH\VSTO\ARMOR\EXCEL RIBBON\bin\Debug\ArmorAcc.pdb
+D:\1. HUYBINH\VSTO\ARMOR\EXCEL RIBBON\bin\Debug\ArmorAcc.dll.manifest
+D:\1. HUYBINH\VSTO\ARMOR\EXCEL RIBBON\bin\Debug\ArmorAcc.vsto
+D:\1. HUYBINH\VSTO\ARMOR\EXCEL RIBBON\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+D:\1. HUYBINH\VSTO\ARMOR\EXCEL RIBBON\obj\Debug\ArmorAcc.csprojAssemblyReference.cache
+D:\1. HUYBINH\VSTO\ARMOR\EXCEL RIBBON\obj\Debug\ArmorAcc.ArmorAcc.resources
+D:\1. HUYBINH\VSTO\ARMOR\EXCEL RIBBON\obj\Debug\ArmorAcc.Properties.Resources.resources
+D:\1. HUYBINH\VSTO\ARMOR\EXCEL RIBBON\obj\Debug\ArmorAcc.csproj.GenerateResource.cache
+D:\1. HUYBINH\VSTO\ARMOR\EXCEL RIBBON\obj\Debug\ArmorAcc.csproj.CoreCompileInputs.cache
+D:\1. HUYBINH\VSTO\ARMOR\EXCEL RIBBON\obj\Debug\ArmorAcc.csproj.CopyComplete
+D:\1. HUYBINH\VSTO\ARMOR\EXCEL RIBBON\obj\Debug\ArmorAcc.dll
+D:\1. HUYBINH\VSTO\ARMOR\EXCEL RIBBON\obj\Debug\ArmorAcc.pdb
+D:\1. HUYBINH\VSTO\ARMOR\EXCEL RIBBON\bin\Debug\ExcelDna.IntelliSense.dll
+D:\1. HUYBINH\VSTO\ARMOR\EXCEL RIBBON\bin\Debug\ExcelDna.Integration.dll
+D:\1. HUYBINH\VSTO\ARMOR\Armor Tools\bin\Debug\ArmorAcc.dll
+D:\1. HUYBINH\VSTO\ARMOR\Armor Tools\bin\Debug\ArmorAcc.pdb
+D:\1. HUYBINH\VSTO\ARMOR\Armor Tools\bin\Debug\ArmorAcc.dll.manifest
+D:\1. HUYBINH\VSTO\ARMOR\Armor Tools\bin\Debug\ArmorAcc.vsto
+D:\1. HUYBINH\VSTO\ARMOR\Armor Tools\bin\Debug\ExcelDna.Integration.dll
+D:\1. HUYBINH\VSTO\ARMOR\Armor Tools\bin\Debug\ExcelDna.IntelliSense.dll
+D:\1. HUYBINH\VSTO\ARMOR\Armor Tools\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+D:\1. HUYBINH\VSTO\ARMOR\Armor Tools\obj\Debug\ArmorAcc.csproj.AssemblyReference.cache
+D:\1. HUYBINH\VSTO\ARMOR\Armor Tools\obj\Debug\ArmorAcc.ArmorAcc.resources
+D:\1. HUYBINH\VSTO\ARMOR\Armor Tools\obj\Debug\ArmorAcc.Properties.Resources.resources
+D:\1. HUYBINH\VSTO\ARMOR\Armor Tools\obj\Debug\ArmorAcc.csproj.GenerateResource.cache
+D:\1. HUYBINH\VSTO\ARMOR\Armor Tools\obj\Debug\ArmorAcc.csproj.CoreCompileInputs.cache
+D:\1. HUYBINH\VSTO\ARMOR\Armor Tools\obj\Debug\ArmorAcc.csproj.CopyComplete
+D:\1. HUYBINH\VSTO\ARMOR\Armor Tools\obj\Debug\ArmorAcc.dll
+D:\1. HUYBINH\VSTO\ARMOR\Armor Tools\obj\Debug\ArmorAcc.pdb
